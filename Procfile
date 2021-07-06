@@ -1,1 +1,1 @@
-worker: python parser_v2.py
+workerweb: python hello.py
