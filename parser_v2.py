@@ -80,7 +80,7 @@ class LoadingTheConfiguration(object):
 
 
 class identdict(dict):
-    def __missing__(self, key):
+    def __missing__(self, key):  
         return key
 
 
